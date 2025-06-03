@@ -84,7 +84,7 @@ const NGOLandingPage = () => {
             </span>
             <br />
             <span className="text-4xl md:text-5xl text-gray-300">
-              Thalassemia & Hemophilia Center
+              Thalassemia & Haemophilia Center
             </span>
           </h1>
           
