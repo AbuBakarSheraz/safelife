@@ -48,7 +48,7 @@ const NGOLandingPage = () => {
             <img src="/logo.png" alt="Safe Life Logo" className="h-12 w-12 rounded-full shadow-lg" />
             <div>
               <h1 className="text-white font-bold text-xl">Safe Life</h1>
-              <p className="text-cyan-300 text-sm">Thalassemia & Hemophilia</p>
+              <p className="text-cyan-300 text-sm">Thalassemia & Haemophilia</p>
             </div>
           </div>
           <nav className="hidden md:flex space-x-8">
@@ -84,7 +84,7 @@ const NGOLandingPage = () => {
             </span>
             <br />
             <span className="text-4xl md:text-5xl text-gray-300">
-              Thalassemia & Hemophilia Care
+              Thalassemia & Hemophilia Center
             </span>
           </h1>
           
@@ -151,7 +151,7 @@ const NGOLandingPage = () => {
                   <Award className="h-5 w-5 text-yellow-400 mr-2" />
                   <span className="text-cyan-300 text-sm font-semibold">Chief Executive Officer</span>
                 </div>
-                <h2 className="text-4xl font-bold text-white mb-4">Dr. Tanveer Sulehra</h2>
+                <h2 className="text-4xl font-bold text-white mb-4">Dr. Tanveer Sulehria</h2>
                 <p className="text-gray-300 text-lg leading-relaxed mb-6">
                   Leading our mission with dedication, expertise, and compassion. Dr. Sulehra brings years of medical 
                   experience and unwavering commitment to improving the lives of patients with thalassemia and hemophilia.
@@ -253,7 +253,7 @@ const NGOLandingPage = () => {
                   </div>
                   <div>
                     <h3 className="text-white font-semibold text-lg mb-2">Email</h3>
-                    <p className="text-gray-300">info@safelifengo.org</p>
+                    <p className="text-gray-300">safelife2002@gmail.com</p>
                   </div>
                 </div>
               </div>
