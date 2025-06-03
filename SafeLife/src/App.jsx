@@ -138,12 +138,12 @@ const NGOLandingPage = () => {
         <div className="container mx-auto">
           <div className="bg-gradient-to-r from-white/10 to-white/5 backdrop-blur-lg rounded-3xl p-12 border border-white/20 shadow-2xl">
             <div className="flex flex-col lg:flex-row items-center gap-12">
-              <div className="relative group">
-                <div className="absolute -inset-4 bg-gradient-to-r from-cyan-500 to-purple-500 rounded-full blur-xl group-hover:blur-2xl transition-all duration-500 opacity-70"></div>
+              <div className="relative">
+                <div className="absoluten bg-gradient-to-r from-cyan-500 to-purple-500 rounded-full blur-xl group-hover:blur-2xl transition-all duration-500 opacity-70"></div>
                 <img 
-                  src="/ceo.jpg" 
+                  src="/ceo.jpeg" 
                   alt="Dr Tanveer Sulehra" 
-                  className="relative h-48 w-48 rounded-full object-cover border-4 border-white/30 shadow-2xl group-hover:scale-105 transition-transform duration-500"
+                  className="relative h-72 w-72 rounded-full object-cover object-top  border-4 border-white/30 shadow-2xl group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
               <div className="flex-1 text-center lg:text-left">
